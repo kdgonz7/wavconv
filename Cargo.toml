@@ -1,0 +1,11 @@
+[package]
+name = "wavconv"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2.1.0"
+spawner = "0.3.2"
+subprocess = "0.2.9"
+which = "6.0.3"
+
